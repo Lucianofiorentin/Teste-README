@@ -1,0 +1,15 @@
+.titulo_principal{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+
+}
+.titulo_secundario{
+    text-align: end;
+    font-style: italic;
+}
+.texto{
+    text-align: end;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
